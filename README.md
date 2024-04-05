@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![c](https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg)
 <!--
 **GiacomoMassaroni/GiacomoMassaroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
