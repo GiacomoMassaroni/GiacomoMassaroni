@@ -1,6 +1,8 @@
 # Ciao, sono Giacomo Massaroni! 👋
 
-Sono un Full Stack Web Developer appassionato di tecnologia e sviluppo software.
+Sono un appassionato sviluppatore specializzato nello sviluppo di servizi e microservizi. Le mie competenze spaziano tra i framework Angular, .NET, Spring e JavaEE. Pur avendo basi in C e C++, la mia vera vocazione in ambito lavorativo è Java.
+
+Trovo particolarmente stimolante lavorare su progetti back-end e sviluppare API. Sono sempre alla ricerca di nuove sfide che mi permettano di mettere in pratica le mie competenze e creare soluzioni innovative e scalabili.
 
 ## 🔭 Attualmente sto lavorando su
 
