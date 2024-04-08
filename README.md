@@ -2,11 +2,15 @@
 
 Sono un appassionato sviluppatore specializzato nello sviluppo di servizi e microservizi. Le mie competenze spaziano tra i framework Angular, .NET, Spring e JavaEE. Pur avendo basi in C e C++, la mia vera vocazione in ambito lavorativo è Java.
 
-Trovo particolarmente stimolante lavorare su progetti back-end e sviluppare API. Sono sempre alla ricerca di nuove sfide che mi permettano di mettere in pratica le mie competenze e creare soluzioni innovative e scalabili.
+Durante la mia carriera, ho acquisito una vasta esperienza nel design, sviluppo e gestione di servizi e microservizi, utilizzando una varietà di tecnologie e framework. Con una solida conoscenza dei principi di architettura software e design pattern, sono in grado di creare soluzioni scalabili, robuste e performanti.
 
-## 🔭 Attualmente sto lavorando su
+Trovo particolarmente stimolante lavorare su progetti back-end e sviluppare API. La creazione di servizi efficienti e affidabili è la mia passione, e mi impegno a mantenere gli standard più elevati nella mia pratica lavorativa.
 
-- Progetti web utilizzando le tecnologie frontend e backend.
+Ho una comprovata esperienza nell'utilizzo di tecnologie front-end e back-end per creare esperienze utente coinvolgenti e funzionalità avanzate. Sono abile nel lavorare in team multidisciplinari e mi adatto facilmente a nuovi ambienti e sfide.
+
+Sono sempre alla ricerca di nuove opportunità che mi permettano di mettere in pratica le mie competenze e creare soluzioni innovative e scalabili. Sono motivato dalla sfida e dall'opportunità di contribuire al successo dei progetti su cui lavoro.
+
+- 🎓 
 
 ## 🌱 Attualmente sto imparando
 
