@@ -1,7 +1,5 @@
 # Ciao, sono Giacomo Massaroni! 👋
 
-
-
 Sono un Full Stack Web Developer appassionato di tecnologia e sviluppo software.
 
 ## 🔭 Attualmente sto lavorando su
@@ -25,14 +23,9 @@ Sono un Full Stack Web Developer appassionato di tecnologia e sviluppo software.
 - Email: G.massaroni@hotmail.it
 - LinkedIn: [Giacomo Massaroni](https://www.linkedin.com/in/giacomo-massaroni/)
 
-
-
-
-
 # My stack
 ---
 
 **Linguaggi**
+
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50">
-
-
