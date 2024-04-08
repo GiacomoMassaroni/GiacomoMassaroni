@@ -1,4 +1,4 @@
-# Ciao, sono Giacomo Massaroni! 👋
+<h1 align="center">Ciao, sono Giacomo Massaroni! 👋</h1> 
 
 Sono un appassionato sviluppatore specializzato nello sviluppo di servizi e microservizi. Le mie competenze spaziano tra i framework Angular, .NET, Spring e JavaEE. Pur avendo basi in C e C++, la mia vera vocazione in ambito lavorativo è Java.
 Durante la mia carriera, ho acquisito una vasta esperienza nel design, sviluppo e gestione di servizi e microservizi, utilizzando una varietà di tecnologie e framework. Con una solida conoscenza dei principi di architettura software e design pattern, sono in grado di creare soluzioni scalabili, robuste e performanti.
