@@ -35,4 +35,5 @@ In seguito, ho proseguito il mio percorso di formazione presso l'accademia Contr
 
 **Linguaggi**
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cpp.svg" alt="C++" width="50" height="50">
+
+
