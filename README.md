@@ -1,4 +1,4 @@
-#### Hi, I'm Giacomo Massaroni 👋
+# Hi, I'm Giacomo Massaroni 👋
 ![c](https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg)
 <!--
 **GiacomoMassaroni/GiacomoMassaroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
