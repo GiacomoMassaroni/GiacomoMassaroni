@@ -25,9 +25,7 @@ Sono un Full Stack Web Developer appassionato di tecnologia e sviluppo software.
 - Email: G.massaroni@hotmail.it
 - LinkedIn: [Giacomo Massaroni](https://www.linkedin.com/in/giacomo-massaroni/)
 
-## 😄 Curiosità
 
-- Sono un appassionato di corsa e partecipo regolarmente a maratone.
 
 
 
@@ -35,6 +33,6 @@ Sono un Full Stack Web Developer appassionato di tecnologia e sviluppo software.
 ---
 
 **Linguaggi**
-![C](https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg)
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50">
 
-⭐️ Grazie per aver visitato il mio profilo! Sentiti libero di esplorare i miei progetti e contattarmi per qualsiasi domanda o collaborazione.
+
