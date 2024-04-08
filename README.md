@@ -35,6 +35,7 @@ In seguito, ho proseguito il mio percorso di formazione presso l'accademia Contr
 
 **Linguaggi**
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50">
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#00599C" rx="60"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/java.svg" alt="Java" width="50" height="50"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/javaee.svg" alt="JavaEE" width="50" height="50"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/spring.svg" alt="Spring" width="50" height="50">
