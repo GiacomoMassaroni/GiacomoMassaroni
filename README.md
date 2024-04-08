@@ -1,6 +1,6 @@
 # Ciao, sono Giacomo Massaroni! 👋
 
-![C](https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg)
+
 
 Sono un Full Stack Web Developer appassionato di tecnologia e sviluppo software.
 
@@ -30,5 +30,9 @@ Sono un Full Stack Web Developer appassionato di tecnologia e sviluppo software.
 - Sono un appassionato di corsa e partecipo regolarmente a maratone.
 
 ---
+
+# My stack
+---
+![C](https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg)
 
 ⭐️ Grazie per aver visitato il mio profilo! Sentiti libero di esplorare i miei progetti e contattarmi per qualsiasi domanda o collaborazione.
