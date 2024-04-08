@@ -34,6 +34,10 @@ In seguito, ho proseguito il mio percorso di formazione presso l'accademia Contr
 ---
 
 **Linguaggi**
-
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/java.svg" alt="Java" width="50" height="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/javaee.svg" alt="JavaEE" width="50" height="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/spring.svg" alt="Spring" width="50" height="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/c++.svg" alt="C++" width="50" height="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/csharp.svg" alt="C#" width="50" height="50"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/dotnet.svg" alt=".NET" width="50" height="50">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/java.svg" alt="Java" width="50" height="50"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/javaee.svg" alt="JavaEE" width="50" height="50"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/spring.svg" alt="Spring" width="50" height="50">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/c++.svg" alt="C++" width="50" height="50"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/csharp.svg" alt="C#" width="50" height="50"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/dotnet.svg" alt=".NET" width="50" height="50">
