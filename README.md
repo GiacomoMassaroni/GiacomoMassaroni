@@ -30,14 +30,14 @@ In seguito, ho proseguito il mio percorso di formazione presso l'accademia Contr
 - Email: G.massaroni@hotmail.it
 - LinkedIn: [Giacomo Massaroni](https://www.linkedin.com/in/giacomo-massaroni/)
 
-# My stack
+<h1 align="center">My stack</h1>
 ---
 
 <h2 align="center">Linguaggi</h2>
-<div>
+<br>
   Basso Livello
   
-</div>
+
 <div>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="50" height="50">
