@@ -35,7 +35,7 @@ In seguito, ho proseguito il mio percorso di formazione presso l'accademia Contr
 
 <h2 align="center">Linguaggi</h2>
 <div>
-  __Basso Livello__
+  Basso Livello
   
 </div>
 <div>
