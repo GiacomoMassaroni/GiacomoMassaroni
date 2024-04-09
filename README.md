@@ -37,6 +37,7 @@ In seguito, ho proseguito il mio percorso di formazione presso l'accademia Contr
 <div>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="50" height="50">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#"  width="50" height="50">
 
 </div>
 
