@@ -33,7 +33,10 @@ In seguito, ho proseguito il mio percorso di formazione presso l'accademia Contr
 # My stack
 ---
 
-**Linguaggi**
+<h1 align="center">Linguaggi</h1>
+<div>
+  **Basso Livello**
+</div>
 <div>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="50" height="50">
@@ -41,7 +44,7 @@ In seguito, ho proseguito il mio percorso di formazione presso l'accademia Contr
 </div>
 <div>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java"  width="50" height="50">
-<img src="" alt=""  width="50" height="50">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring"  width="50" height="50">
 <img src="" alt=""  width="50" height="50">
   
 </div>
