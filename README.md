@@ -33,9 +33,9 @@ In seguito, ho proseguito il mio percorso di formazione presso l'accademia Contr
 # My stack
 ---
 
-<h1 align="center">Linguaggi</h1>
+<h2 align="center">Linguaggi</h2>
 <div>
-  <b> Basso Livello</b>
+  __Basso Livello__
 </div>
 <div>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50">
