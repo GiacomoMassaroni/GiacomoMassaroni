@@ -33,7 +33,7 @@ In seguito, ho proseguito il mio percorso di formazione presso l'accademia Contr
 <h1 align="center">My stack</h1>
 
 
-<h2 align="center">Linguaggi</h2>
+<h2 >Linguaggi</h2>
 <br>
   Basso Livello
   
