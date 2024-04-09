@@ -58,6 +58,7 @@ In seguito, ho proseguito il mio percorso di formazione presso l'accademia Contr
 
 DataBase
 <div>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"  width="50" height="50">
   
 </div>
 
