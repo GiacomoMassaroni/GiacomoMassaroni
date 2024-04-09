@@ -31,7 +31,7 @@ In seguito, ho proseguito il mio percorso di formazione presso l'accademia Contr
 - LinkedIn: [Giacomo Massaroni](https://www.linkedin.com/in/giacomo-massaroni/)
 
 <h1 align="center">My stack</h1>
----
+
 
 <h2 align="center">Linguaggi</h2>
 <br>
