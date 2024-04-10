@@ -9,7 +9,8 @@ Sono un appassionato sviluppatore con competenza in C e C++, ma la mia vera voca
 
 ---
 
-- 🎓 Durante il mio percorso formativo, ho avuto l'opportunità di immergermi nel mondo della programmazione presso l'Istituto CEFI di Roma.
+- 🎓 <h1>Percorso Formativo</h1>
+<p>Durante il mio percorso formativo, ho avuto l'opportunità di immergermi nel mondo della programmazione presso l'Istituto CEFI di Roma.</p>
 <p>Iniziando da linguaggi a basso livello come C e C++, ho sviluppato una solida comprensione dei fondamenti della programmazione, esplorando concetti come gestione della memoria, puntatori e strutture dati.</p>
 <p>Con il passare del tempo, ho ampliato il mio bagaglio di conoscenze, spostandomi verso linguaggi ad alto livello come Java.</p>
 <p>Questa transizione mi ha permesso di esplorare le potenzialità della programmazione orientata agli oggetti e di affinare le mie capacità nello sviluppo di applicazioni complesse e scalabili.</p>
