@@ -1,6 +1,7 @@
 <h1 align="center">Ciao, sono Giacomo Massaroni! 👋</h1> 
 
-<p>Sono un appassionato sviluppatore con competenza in C e C++, ma la mia vera vocazione lavorativa è nel campo di Java. Mi sono specializzato nella progettazione e implementazione di servizi e microservizi, con un particolare focus sullo sviluppo back-end.</p>
+Sono un appassionato sviluppatore con competenza in C e C++, ma la mia vera vocazione lavorativa è nel campo di Java. 
+<p>Mi sono specializzato nella progettazione e implementazione di servizi e microservizi, con un particolare focus sullo sviluppo back-end.</p>
 <p>Nel corso della mia carriera, ho accumulato una vasta esperienza nel design, sviluppo e gestione di servizi e microservizi, utilizzando una varietà di tecnologie e framework, tra cui Angular, .NET, Spring e JavaEE. Con una solida comprensione dei principi di architettura software e design pattern, mi dedico alla creazione di soluzioni scalabili, robuste e performanti.</p>
 <p>Trovo particolarmente gratificante lavorare su progetti back-end e sviluppare API. La creazione di servizi efficienti e affidabili è la mia passione, e mi impegno a mantenere gli standard più elevati nella mia pratica lavorativa.</p>
 <p>Sono abile nel collaborare con team multidisciplinari e mi adatto facilmente a nuovi ambienti e sfide.</p>
