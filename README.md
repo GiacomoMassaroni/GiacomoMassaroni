@@ -9,10 +9,14 @@ Sono un appassionato sviluppatore con competenza in C e C++, ma la mia vera voca
 
 ---
 
-- 🎓 Durante il mio percorso formativo, ho avuto l'opportunità di immergermi nel mondo della programmazione presso l'Istituto CEFI in Roma. Iniziando da linguaggi a basso livello come C e C++, ho sviluppato una solida comprensione dei fondamenti della programmazione, esplorando concetti come gestione della memoria, puntatori e strutture dati.
-Con il passare del tempo, ho ampliato il mio bagaglio di conoscenze, spostandomi verso linguaggi ad alto livello come Java. Questa transizione mi ha permesso di esplorare le potenzialità della programmazione orientata agli oggetti e di affinare le mie capacità nello sviluppo di applicazioni complesse e scalabili.
-La mia esperienza al CEFI non si è limitata alla sola teoria, ma ho avuto l'opportunità di mettere in pratica ciò che ho imparato attraverso progetti e laboratori pratici. Questo approccio hands-on mi ha consentito di consolidare le mie competenze e di acquisire una comprensione più profonda delle tecnologie e dei concetti affrontati durante il corso.
-In seguito, ho proseguito il mio percorso di formazione presso l'accademia Contrader, sita a Benevento, dove ho ulteriormente ampliato le mie competenze nello sviluppo full-stack, approfondendo le tecnologie come Java con pattern MVC utilizzando Spring e JSP, Spring REST e Angular per la creazione di applicazioni web dinamiche. Inoltre, ho acquisito esperienza nello sviluppo di architetture a microservizi.
+- 🎓 Durante il mio percorso formativo, ho avuto l'opportunità di immergermi nel mondo della programmazione presso l'Istituto CEFI di Roma.
+<p>Iniziando da linguaggi a basso livello come C e C++, ho sviluppato una solida comprensione dei fondamenti della programmazione, esplorando concetti come gestione della memoria, puntatori e strutture dati.</p>
+<p>Con il passare del tempo, ho ampliato il mio bagaglio di conoscenze, spostandomi verso linguaggi ad alto livello come Java.</p>
+<p>Questa transizione mi ha permesso di esplorare le potenzialità della programmazione orientata agli oggetti e di affinare le mie capacità nello sviluppo di applicazioni complesse e scalabili.</p>
+<p>La mia esperienza al CEFI non si è limitata alla sola teoria, ma ho avuto l'opportunità di mettere in pratica ciò che ho imparato attraverso progetti e laboratori pratici.</p>
+<p>Questo approccio hands-on mi ha consentito di consolidare le mie competenze e di acquisire una comprensione più profonda delle tecnologie e dei concetti affrontati durante il corso.</p>
+In seguito, ho proseguito il mio percorso di formazione presso la società Contrader, in Benevento, dove ho ulteriormente ampliato le mie competenze nello sviluppo full-stack, approfondendo le tecnologie come Java con pattern MVC utilizzando Spring e JSP, Spring REST e Angular per la creazione di applicazioni web dinamiche.
+<p>Inoltre, ho acquisito esperienza nello sviluppo di architetture a microservizi.</p>
 
 ## 🌱 Attualmente sto imparando
 
