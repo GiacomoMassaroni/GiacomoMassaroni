@@ -20,6 +20,7 @@ Sono un appassionato sviluppatore con competenza in C e C++, ma la mia vera voca
 
 <p>Sto esplorando nuove tecniche e framework per migliorare le mie capacità di sviluppo.</p>
 <p>Al momento, sto concentrando l'attenzione su tecnologie emergenti nel campo dello sviluppo web e delle architetture a microservizi.</p>
+<p>Tuttavia, non perdo di vista le fondamenta e le sfide avanzate nel mondo Java.</p>
 
 ## 🤝 Cerco di collaborare su
 
