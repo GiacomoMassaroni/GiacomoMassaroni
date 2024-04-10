@@ -28,9 +28,9 @@ Sono un appassionato sviluppatore con competenza in C e C++, ma la mia vera voca
 <p>Mi piacerebbe partecipare a team impegnati nella creazione di soluzioni creative e significative che possano beneficiare della collaborazione di una comunità più ampia.</p>
 
 <h1>💬 Chiedimi qualcosa su</h1>
-
-<strong>Sviluppo back-end:</strong>
 <p>
+<strong>Sviluppo back-end:</strong>
+
     Framework come Spring (Spring Boot, Spring MVC, Spring Data) e JavaEE; sviluppo di applicazioni basate su servlet e JSP.
 </p>
 <p>
