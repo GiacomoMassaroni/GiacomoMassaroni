@@ -22,14 +22,21 @@ Sono un appassionato sviluppatore con competenza in C e C++, ma la mia vera voca
 <p>Al momento, sto concentrando l'attenzione su tecnologie emergenti nel campo dello sviluppo web e delle architetture a microservizi.</p>
 <p>Tuttavia, non perdo di vista le fondamenta e le sfide avanzate nel mondo Java.</p>
 
-<h1>🤝 Cerco di collaborare su</h1>
+<h1>🤝 Collaborazioni</h1>
 
 <p>Sono alla ricerca di opportunità per contribuire a progetti open source e iniziative che promuovono l'innovazione e l'apprendimento condiviso.</p>
 <p>Mi piacerebbe partecipare a team impegnati nella creazione di soluzioni creative e significative che possano beneficiare della collaborazione di una comunità più ampia.</p>
 
-## 💬 Chiedimi qualcosa su
+<h1>💬 Chiedimi qualcosa su</h1>
 
-- Sviluppo web, programmazione, design pattern, metodologie Agile, etc.
+<strong>Sviluppo back-end:</strong> Framework come Spring (Spring Boot, Spring MVC, Spring Data) e JavaEE; sviluppo di applicazioni basate su servlet e JSP.
+Design pattern: Approfondimenti sui principali design pattern nel contesto del back-end e come applicarli efficacemente nei progetti Java.
+Metodologie Agile: Esperienze pratiche con Scrum, Kanban e altre metodologie agili specificamente nel contesto dello sviluppo back-end.
+Programmazione Java: Concetti fondamentali, best practice e tecniche avanzate per lo sviluppo di applicazioni Java robuste ed efficienti.
+Programmazione server-side: Approfondimenti sulle tecniche di programmazione server-side, inclusi protocolli di comunicazione, gestione delle sessioni e sicurezza.
+Architetture a microservizi: Concetti e best practice nell'implementazione di architetture basate su microservizi, inclusi vantaggi, sfide e strategie di gestione.
+Gestione delle risorse: Approfondimenti sulla gestione delle risorse nel contesto dello sviluppo back-end, inclusi database, connessioni di rete e gestione della memoria.
+
 
 ## 📫 Come contattarmi
 
