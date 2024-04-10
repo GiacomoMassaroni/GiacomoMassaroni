@@ -16,9 +16,10 @@ Sono un appassionato sviluppatore con competenza in C e C++, ma la mia vera voca
 <p>In seguito, ho proseguito il mio percorso di formazione presso la società Contrader, in Benevento, dove ho ulteriormente ampliato le mie competenze nello sviluppo full-stack. Ho approfondito le tecnologie come Java con pattern MVC utilizzando Spring e JSP, Spring REST e Angular per la creazione di applicazioni web dinamiche. Inoltre, ho acquisito esperienza nello sviluppo di architetture a microservizi.</p>
 <p>Durante la mia esperienza con Contrader, ho avuto la preziosa opportunità di comprendere appieno il significato di lavorare in un team di sviluppo. Sono stato coinvolto attivamente nelle pratiche Agile, seguendo metodologie come Scrum. Ho partecipato a riunioni giornaliere (Daily Standup), pianificazioni di sprint e ho gestito le attività attraverso board Kanban. Questa esperienza mi ha permesso di sviluppare non solo le mie capacità tecniche, ma anche le competenze necessarie per lavorare efficacemente in un ambiente collaborativo e dinamico.</p>
 
-## 🌱 Attualmente sto imparando
+<h1>🌱 Attualmente sto imparando</h1>
 
-- Nuove tecniche e framework per migliorare le mie capacità di sviluppo.
+<p>Sto esplorando nuove tecniche e framework per migliorare le mie capacità di sviluppo. 
+Al momento, sto concentrando l'attenzione su tecnologie emergenti nel campo dello sviluppo web e delle architetture a microservizi.</p>
 
 ## 🤝 Cerco di collaborare su
 
