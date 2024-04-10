@@ -29,7 +29,8 @@ Sono un appassionato sviluppatore con competenza in C e C++, ma la mia vera voca
 
 <h1>💬 Chiedimi qualcosa su</h1>
 
-<strong>Sviluppo back-end:</strong> Framework come Spring (Spring Boot, Spring MVC, Spring Data) e JavaEE; sviluppo di applicazioni basate su servlet e JSP.
+<strong>Sviluppo back-end:</strong>
+<p>Framework come Spring (Spring Boot, Spring MVC, Spring Data) e JavaEE; sviluppo di applicazioni basate su servlet e JSP.</p>
 Design pattern: Approfondimenti sui principali design pattern nel contesto del back-end e come applicarli efficacemente nei progetti Java.
 Metodologie Agile: Esperienze pratiche con Scrum, Kanban e altre metodologie agili specificamente nel contesto dello sviluppo back-end.
 Programmazione Java: Concetti fondamentali, best practice e tecniche avanzate per lo sviluppo di applicazioni Java robuste ed efficienti.
