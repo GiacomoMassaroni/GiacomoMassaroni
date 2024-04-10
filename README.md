@@ -70,8 +70,6 @@ Sono un appassionato sviluppatore con competenza in C e C++, ma la mia vera voca
 
 
 **Linguaggi**
-
-  
 <div>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="50" height="50">
@@ -83,21 +81,30 @@ Sono un appassionato sviluppatore con competenza in C e C++, ma la mia vera voca
 <div>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring"  width="50" height="50">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="DotNet"  width="50" height="50">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman"  width="50" height="50">
 </div>
 
 
 **IDE**
 <div>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" alt="Eclipse"  width="50" height="50">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="IDEA"  width="50" height="50">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="VisualStudio"  width="50" height="50">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode"  width="50" height="50">
   
 </div>
 
-DataBase
+**DataBase**
 <div>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"  width="50" height="50">
-  
 </div>
 
+**Front-End**
+<div>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Boostrap"  width="50" height="50">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS"  width="50" height="50">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML"  width="50" height="50">
+</div>
 
 
 
