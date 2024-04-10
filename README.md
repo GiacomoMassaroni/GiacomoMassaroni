@@ -66,44 +66,41 @@ Sono un appassionato sviluppatore con competenza in C e C++, ma la mia vera voca
 - Email: G.massaroni@hotmail.it
 - LinkedIn: [Giacomo Massaroni](https://www.linkedin.com/in/giacomo-massaroni/)
 
-<h1 align="center">My stack</h1>
+<h1 style="text-align: center;">My Stack</h1>
 
-
-**Linguaggi**
-<div>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="50" height="50">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java"  width="50" height="50">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#"  width="50" height="50">
+<h2>Linguaggi</h2>
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java"  width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#"  width="50" height="50">
 </div>
 
-**Software**
-<div>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring"  width="50" height="50">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="DotNet"  width="50" height="50">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman"  width="50" height="50">
+<h2>Software</h2>
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring"  width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="DotNet"  width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman"  width="50" height="50">
 </div>
 
-
-**IDE**
-<div>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" alt="Eclipse"  width="50" height="50">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="IDEA"  width="50" height="50">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="VisualStudio"  width="50" height="50">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode"  width="50" height="50">
-  
+<h2>IDE</h2>
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" alt="Eclipse"  width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="IDEA"  width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="VisualStudio"  width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode"  width="50" height="50">
 </div>
 
-**DataBase**
-<div>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"  width="50" height="50">
+<h2>Database</h2>
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"  width="50" height="50">
 </div>
 
-**Front-End**
-<div>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Boostrap"  width="50" height="50">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS"  width="50" height="50">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML"  width="50" height="50">
+<h2>Front-End</h2>
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Boostrap"  width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS"  width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML"  width="50" height="50">
 </div>
 
 
