@@ -18,8 +18,8 @@ Sono un appassionato sviluppatore con competenza in C e C++, ma la mia vera voca
 
 <h1>🌱 Attualmente sto imparando</h1>
 
-<p>Sto esplorando nuove tecniche e framework per migliorare le mie capacità di sviluppo. 
-Al momento, sto concentrando l'attenzione su tecnologie emergenti nel campo dello sviluppo web e delle architetture a microservizi.</p>
+<p>Sto esplorando nuove tecniche e framework per migliorare le mie capacità di sviluppo.</p>
+<p>Al momento, sto concentrando l'attenzione su tecnologie emergenti nel campo dello sviluppo web e delle architetture a microservizi.</p>
 
 ## 🤝 Cerco di collaborare su
 
