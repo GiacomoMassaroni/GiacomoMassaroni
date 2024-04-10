@@ -22,9 +22,10 @@ Sono un appassionato sviluppatore con competenza in C e C++, ma la mia vera voca
 <p>Al momento, sto concentrando l'attenzione su tecnologie emergenti nel campo dello sviluppo web e delle architetture a microservizi.</p>
 <p>Tuttavia, non perdo di vista le fondamenta e le sfide avanzate nel mondo Java.</p>
 
-## 🤝 Cerco di collaborare su
+<h1>🤝 Cerco di collaborare su</h1>
 
-- Progetti open source e iniziative che promuovono l'innovazione e l'apprendimento condiviso.
+<p>Sono alla ricerca di opportunità per contribuire a progetti open source e iniziative che promuovono l'innovazione e l'apprendimento condiviso.</p>
+<p>Mi piacerebbe partecipare a team impegnati nella creazione di soluzioni creative e significative che possano beneficiare della collaborazione di una comunità più ampia.</p>
 
 ## 💬 Chiedimi qualcosa su
 
