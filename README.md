@@ -80,7 +80,7 @@ Sono un appassionato sviluppatore con competenza in C e C++, ma la mia vera voca
 <div style="display: flex; justify-content: center;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring"  width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="DotNet"  width="50" height="50">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman"  width="50" height="50">
+
 </div>
 
 <h2>IDE</h2>
@@ -101,6 +101,14 @@ Sono un appassionato sviluppatore con competenza in C e C++, ma la mia vera voca
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Boostrap"  width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS"  width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML"  width="50" height="50">
+</div>
+<h2>Altri strumenti utilizzati</h2>
+<div style="display: flex; justify-content: center;">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman"  width="50" height="50">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker"  width="50" height="50">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git"  width="50" height="50">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Obsidian-Dark.svg" alt="Obsidian"  width="50" height="50">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" alt="PowerShell"  width="50" height="50">
 </div>
 
 
