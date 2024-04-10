@@ -28,33 +28,37 @@ Sono un appassionato sviluppatore con competenza in C e C++, ma la mia vera voca
 <p>Mi piacerebbe partecipare a team impegnati nella creazione di soluzioni creative e significative che possano beneficiare della collaborazione di una comunità più ampia.</p>
 
 <h1>💬 Chiedimi qualcosa su</h1>
-<p>
-<strong>Sviluppo back-end:</strong> Framework come Spring (Spring Boot, Spring MVC, Spring Data) e JavaEE; sviluppo di applicazioni basate su servlet e JSP.
-</p>
+<ul>
+    <li>
+        <h3>Sviluppo back-end:</h3>
+        <p>Framework come Spring (Spring Boot, Spring MVC, Spring Data) e JavaEE; sviluppo di applicazioni basate su servlet e JSP.</p>
+    </li>
+    <li>
+        <h3>Design pattern:</h3>
+        <p>Approfondimenti sui principali design pattern nel contesto del back-end e come applicarli efficacemente nei progetti Java.</p>
+    </li>
+    <li>
+        <h3>Metodologie Agile:</h3>
+        <p>Esperienze pratiche con Scrum, Kanban e altre metodologie agili specificamente nel contesto dello sviluppo back-end.</p>
+    </li>
+    <li>
+        <h3>Programmazione Java:</h3>
+        <p>Concetti fondamentali, best practice e tecniche avanzate per lo sviluppo di applicazioni Java robuste ed efficienti.</p>
+    </li>
+    <li>
+        <h3>Programmazione server-side:</h3>
+        <p>Approfondimenti sulle tecniche di programmazione server-side, inclusi protocolli di comunicazione, gestione delle sessioni e sicurezza.</p>
+    </li>
+    <li>
+        <h3>Architetture a microservizi:</h3>
+        <p>Concetti e best practice nell'implementazione di architetture basate su microservizi, inclusi vantaggi, sfide e strategie di gestione.</p>
+    </li>
+    <li>
+        <h3>Gestione delle risorse:</h3>
+        <p>Approfondimenti sulla gestione delle risorse nel contesto dello sviluppo back-end, inclusi database, connessioni di rete e gestione della memoria.</p>
+    </li>
+</ul>
 
-<p>
-    <strong>Design pattern:</strong> Approfondimenti sui principali design pattern nel contesto del back-end e come applicarli efficacemente nei progetti Java.
-</p>
-
-<p>
-    <strong>Metodologie Agile:</strong> Esperienze pratiche con Scrum, Kanban e altre metodologie agili specificamente nel contesto dello sviluppo back-end.
-</p>
-
-<p>
-    <strong>Programmazione Java:</strong> Concetti fondamentali, best practice e tecniche avanzate per lo sviluppo di applicazioni Java robuste ed efficienti.
-</p>
-
-<p>
-    <strong>Programmazione server-side:</strong> Approfondimenti sulle tecniche di programmazione server-side, inclusi protocolli di comunicazione, gestione delle sessioni e sicurezza.
-</p>
-
-<p>
-    <strong>Architetture a microservizi:</strong> Concetti e best practice nell'implementazione di architetture basate su microservizi, inclusi vantaggi, sfide e strategie di gestione.
-</p>
-
-<p>
-    <strong>Gestione delle risorse:</strong> Approfondimenti sulla gestione delle risorse nel contesto dello sviluppo back-end, inclusi database, connessioni di rete e gestione della memoria.
-</p>
 
 
 ## 📫 Come contattarmi
