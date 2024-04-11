@@ -76,7 +76,7 @@ Sono un appassionato sviluppatore con competenza in C e C++, ma la mia vera voca
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#"  width="50" height="50">
 </div>
 
-<h2>Software</h2>
+<h2>Framework</h2>
 <div style="display: flex; justify-content: center;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring"  width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="DotNet"  width="50" height="50">
